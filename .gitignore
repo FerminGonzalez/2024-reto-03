@@ -1,0 +1,9 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Nota: este repositorio contiene medios (.wav, .mp3, .mp4, .docx) y datos
+# (.csv) de las asignaciones de Azure AI. No hay build ni dependencias.
